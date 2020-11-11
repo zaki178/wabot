@@ -18,6 +18,7 @@ const instagram = 'https://instagram.com/meowcraft_';
 const telegram = 'GA ADA :V'; 
 const kapanbotaktif = 'SERAH GW LAH:V'; 
 const youtube = 'https://www.youtube.com/meowcraft';
+const twitter = 'http://twitter.com/Meowcraft1':
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
