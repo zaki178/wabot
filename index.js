@@ -474,9 +474,9 @@ const get = require('got')
       Halo *${id.split("@s.whatsapp.net")[0]}*
       Arti dari namamu adalah
 
-  ***********************************
+  ===================================
          Nama _*${nama}*_ ${h}
-  ***********************************
+  ===================================
 
 `,
  MessageType.text);
@@ -502,7 +502,7 @@ const get = require('got')
       console.log(""+ d);
       conn.sendMessage(id, `
 
-************************************
+====================================
 
  *Kecocokan berdasarkan nama*
 
@@ -510,7 +510,7 @@ const get = require('got')
  ${d}
 
 
-************************************
+====================================
     `, MessageType.text);
   });
   }
