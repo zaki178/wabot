@@ -12,6 +12,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 ```bash
 > download termux
 > buka
+> termux-setup-storage
 > pkg install git
 > pkg install ffmpeg
 > pkg install nodejs
