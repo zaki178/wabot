@@ -12,6 +12,7 @@ const menu = require("./lib/menu.js");
 const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
+const rules = require("./lib/rules.js");
 /////////////////
 const BotName = 'MEOW BOT'; 
 const instagram = 'https://instagram.com/meowcraft_'; 
