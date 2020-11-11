@@ -13,11 +13,11 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'REUZ BOT☄'; 
-const instagram = 'https://instagram.com/reuz.id'; 
-const telegram = 'https://t.me/reuzzz'; 
-const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
-const youtube = 'https://www.youtube.com/c/reuz_id';
+const BotName = 'MEOW BOT'; 
+const instagram = 'https://instagram.com/meowcraft_'; 
+const telegram = 'GA ADA :V'; 
+const kapanbotaktif = 'SERAH GW LAH:V'; 
+const youtube = 'https://www.youtube.com/meowcraft';
 //const grupch1 = 'belum ada grup'; 
 //const grupch2 = 'belum ada grup' ; 
 const
@@ -641,7 +641,6 @@ if (text.includes("!alay")){
 		conn.sendMessage(id, hasil, MessageType.text)
 	})
 }
-
 
 
 
